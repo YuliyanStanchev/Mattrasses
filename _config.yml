@@ -1,0 +1,24 @@
+title: Matrasses
+email: ju.stanchev@gmail.com
+description: Hi there!
+baseurl: ""
+url: "" 
+twitter_username: ju.stanchev
+github_username:  Yuliyan Stanchev
+
+# Build settings
+#theme: minima
+plugins:
+  - jekyll-feed
+
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
